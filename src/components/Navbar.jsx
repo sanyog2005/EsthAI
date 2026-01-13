@@ -91,7 +91,7 @@ const Navbar = () => {
   <img 
     src={logoImg} 
     alt="EsthAI Logo" 
-    className="w-35 h-12 rounded-lg object-cover" // Adjust w/h as needed
+    className="w-45 h-50 rounded-lg object-cover" // Adjust w/h as needed
   />
   
   {/* <span className="font-bold tracking-tight text-xl text-white">
